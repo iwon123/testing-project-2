@@ -1,0 +1,11 @@
+headnotes: 
+Revenue, expenditure and budgetary balance - General governments, provincial and territorial economic accounts (x 1,000,000)																																																																																																																
+Annual																																																																																																																
+Table: 36-10-0450-01 (formerly CANSIM 384-0047)																																																																																																																
+Geography: Canada, Province or territory																																																																																																																
+
+footnotes:	
+	
+How to cite: Statistics Canada. Table 36-10-0450-01 Revenue, expenditure and budgetary balance - General governments, provincial and territorial economic accounts (x 1,000,000)	
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610045001	
+DOI: https://doi.org/10.25318/3610045001-eng	

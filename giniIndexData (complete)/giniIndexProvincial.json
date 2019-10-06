@@ -1,0 +1,562 @@
+[
+  {
+    "Adjusted after-tax income": 0.308,
+    "Adjusted market income": 0.487,
+    "Year": 2010,
+    "Adjusted total income": 0.35,
+    "Province": "Newfoundland and Labrador"
+  },
+  {
+    "Adjusted after-tax income": 0.303,
+    "Adjusted market income": 0.469,
+    "Year": 2011,
+    "Adjusted total income": 0.344,
+    "Province": "Newfoundland and Labrador"
+  },
+  {
+    "Adjusted after-tax income": 0.299,
+    "Adjusted market income": 0.461,
+    "Year": 2012,
+    "Adjusted total income": 0.342,
+    "Province": "Newfoundland and Labrador"
+  },
+  {
+    "Adjusted after-tax income": 0.306,
+    "Adjusted market income": 0.455,
+    "Year": 2013,
+    "Adjusted total income": 0.349,
+    "Province": "Newfoundland and Labrador"
+  },
+  {
+    "Adjusted after-tax income": 0.293,
+    "Adjusted market income": 0.441,
+    "Year": 2014,
+    "Adjusted total income": 0.333,
+    "Province": "Newfoundland and Labrador"
+  },
+  {
+    "Adjusted after-tax income": 0.314,
+    "Adjusted market income": 0.466,
+    "Year": 2015,
+    "Adjusted total income": 0.357,
+    "Province": "Newfoundland and Labrador"
+  },
+  {
+    "Adjusted after-tax income": 0.301,
+    "Adjusted market income": 0.465,
+    "Year": 2016,
+    "Adjusted total income": 0.345,
+    "Province": "Newfoundland and Labrador"
+  },
+  {
+    "Adjusted after-tax income": 0.307,
+    "Adjusted market income": 0.483,
+    "Year": 2017,
+    "Adjusted total income": 0.357,
+    "Province": "Newfoundland and Labrador"
+  },
+  {
+    "Adjusted after-tax income": 0.258,
+    "Adjusted market income": 0.408,
+    "Year": 2010,
+    "Adjusted total income": 0.294,
+    "Province": "Prince Edward Island"
+  },
+  {
+    "Adjusted after-tax income": 0.265,
+    "Adjusted market income": 0.402,
+    "Year": 2011,
+    "Adjusted total income": 0.299,
+    "Province": "Prince Edward Island"
+  },
+  {
+    "Adjusted after-tax income": 0.257,
+    "Adjusted market income": 0.395,
+    "Year": 2012,
+    "Adjusted total income": 0.292,
+    "Province": "Prince Edward Island"
+  },
+  {
+    "Adjusted after-tax income": 0.285,
+    "Adjusted market income": 0.428,
+    "Year": 2013,
+    "Adjusted total income": 0.319,
+    "Province": "Prince Edward Island"
+  },
+  {
+    "Adjusted after-tax income": 0.275,
+    "Adjusted market income": 0.414,
+    "Year": 2014,
+    "Adjusted total income": 0.316,
+    "Province": "Prince Edward Island"
+  },
+  {
+    "Adjusted after-tax income": 0.279,
+    "Adjusted market income": 0.4,
+    "Year": 2015,
+    "Adjusted total income": 0.31,
+    "Province": "Prince Edward Island"
+  },
+  {
+    "Adjusted after-tax income": 0.269,
+    "Adjusted market income": 0.418,
+    "Year": 2016,
+    "Adjusted total income": 0.31,
+    "Province": "Prince Edward Island"
+  },
+  {
+    "Adjusted after-tax income": 0.279,
+    "Adjusted market income": 0.42,
+    "Year": 2017,
+    "Adjusted total income": 0.312,
+    "Province": "Prince Edward Island"
+  },
+  {
+    "Adjusted after-tax income": 0.292,
+    "Adjusted market income": 0.439,
+    "Year": 2010,
+    "Adjusted total income": 0.333,
+    "Province": "Nova Scotia"
+  },
+  {
+    "Adjusted after-tax income": 0.28,
+    "Adjusted market income": 0.415,
+    "Year": 2011,
+    "Adjusted total income": 0.317,
+    "Province": "Nova Scotia"
+  },
+  {
+    "Adjusted after-tax income": 0.292,
+    "Adjusted market income": 0.428,
+    "Year": 2012,
+    "Adjusted total income": 0.331,
+    "Province": "Nova Scotia"
+  },
+  {
+    "Adjusted after-tax income": 0.302,
+    "Adjusted market income": 0.431,
+    "Year": 2013,
+    "Adjusted total income": 0.34,
+    "Province": "Nova Scotia"
+  },
+  {
+    "Adjusted after-tax income": 0.291,
+    "Adjusted market income": 0.427,
+    "Year": 2014,
+    "Adjusted total income": 0.333,
+    "Province": "Nova Scotia"
+  },
+  {
+    "Adjusted after-tax income": 0.298,
+    "Adjusted market income": 0.436,
+    "Year": 2015,
+    "Adjusted total income": 0.336,
+    "Province": "Nova Scotia"
+  },
+  {
+    "Adjusted after-tax income": 0.297,
+    "Adjusted market income": 0.442,
+    "Year": 2016,
+    "Adjusted total income": 0.341,
+    "Province": "Nova Scotia"
+  },
+  {
+    "Adjusted after-tax income": 0.294,
+    "Adjusted market income": 0.438,
+    "Year": 2017,
+    "Adjusted total income": 0.335,
+    "Province": "Nova Scotia"
+  },
+  {
+    "Adjusted after-tax income": 0.279,
+    "Adjusted market income": 0.425,
+    "Year": 2010,
+    "Adjusted total income": 0.317,
+    "Province": "New Brunswick"
+  },
+  {
+    "Adjusted after-tax income": 0.289,
+    "Adjusted market income": 0.435,
+    "Year": 2011,
+    "Adjusted total income": 0.326,
+    "Province": "New Brunswick"
+  },
+  {
+    "Adjusted after-tax income": 0.288,
+    "Adjusted market income": 0.426,
+    "Year": 2012,
+    "Adjusted total income": 0.324,
+    "Province": "New Brunswick"
+  },
+  {
+    "Adjusted after-tax income": 0.283,
+    "Adjusted market income": 0.426,
+    "Year": 2013,
+    "Adjusted total income": 0.319,
+    "Province": "New Brunswick"
+  },
+  {
+    "Adjusted after-tax income": 0.277,
+    "Adjusted market income": 0.422,
+    "Year": 2014,
+    "Adjusted total income": 0.316,
+    "Province": "New Brunswick"
+  },
+  {
+    "Adjusted after-tax income": 0.273,
+    "Adjusted market income": 0.413,
+    "Year": 2015,
+    "Adjusted total income": 0.31,
+    "Province": "New Brunswick"
+  },
+  {
+    "Adjusted after-tax income": 0.278,
+    "Adjusted market income": 0.428,
+    "Year": 2016,
+    "Adjusted total income": 0.315,
+    "Province": "New Brunswick"
+  },
+  {
+    "Adjusted after-tax income": 0.276,
+    "Adjusted market income": 0.428,
+    "Year": 2017,
+    "Adjusted total income": 0.315,
+    "Province": "New Brunswick"
+  },
+  {
+    "Adjusted after-tax income": 0.286,
+    "Adjusted market income": 0.434,
+    "Year": 2010,
+    "Adjusted total income": 0.332,
+    "Province": "Quebec"
+  },
+  {
+    "Adjusted after-tax income": 0.291,
+    "Adjusted market income": 0.438,
+    "Year": 2011,
+    "Adjusted total income": 0.34,
+    "Province": "Quebec"
+  },
+  {
+    "Adjusted after-tax income": 0.297,
+    "Adjusted market income": 0.442,
+    "Year": 2012,
+    "Adjusted total income": 0.342,
+    "Province": "Quebec"
+  },
+  {
+    "Adjusted after-tax income": 0.292,
+    "Adjusted market income": 0.444,
+    "Year": 2013,
+    "Adjusted total income": 0.339,
+    "Province": "Quebec"
+  },
+  {
+    "Adjusted after-tax income": 0.281,
+    "Adjusted market income": 0.43,
+    "Year": 2014,
+    "Adjusted total income": 0.33,
+    "Province": "Quebec"
+  },
+  {
+    "Adjusted after-tax income": 0.285,
+    "Adjusted market income": 0.435,
+    "Year": 2015,
+    "Adjusted total income": 0.33,
+    "Province": "Quebec"
+  },
+  {
+    "Adjusted after-tax income": 0.284,
+    "Adjusted market income": 0.437,
+    "Year": 2016,
+    "Adjusted total income": 0.333,
+    "Province": "Quebec"
+  },
+  {
+    "Adjusted after-tax income": 0.288,
+    "Adjusted market income": 0.438,
+    "Year": 2017,
+    "Adjusted total income": 0.332,
+    "Province": "Quebec"
+  },
+  {
+    "Adjusted after-tax income": 0.32,
+    "Adjusted market income": 0.447,
+    "Year": 2010,
+    "Adjusted total income": 0.363,
+    "Province": "Ontario"
+  },
+  {
+    "Adjusted after-tax income": 0.311,
+    "Adjusted market income": 0.433,
+    "Year": 2011,
+    "Adjusted total income": 0.352,
+    "Province": "Ontario"
+  },
+  {
+    "Adjusted after-tax income": 0.322,
+    "Adjusted market income": 0.437,
+    "Year": 2012,
+    "Adjusted total income": 0.361,
+    "Province": "Ontario"
+  },
+  {
+    "Adjusted after-tax income": 0.327,
+    "Adjusted market income": 0.445,
+    "Year": 2013,
+    "Adjusted total income": 0.368,
+    "Province": "Ontario"
+  },
+  {
+    "Adjusted after-tax income": 0.316,
+    "Adjusted market income": 0.429,
+    "Year": 2014,
+    "Adjusted total income": 0.358,
+    "Province": "Ontario"
+  },
+  {
+    "Adjusted after-tax income": 0.318,
+    "Adjusted market income": 0.437,
+    "Year": 2015,
+    "Adjusted total income": 0.36,
+    "Province": "Ontario"
+  },
+  {
+    "Adjusted after-tax income": 0.32,
+    "Adjusted market income": 0.445,
+    "Year": 2016,
+    "Adjusted total income": 0.363,
+    "Province": "Ontario"
+  },
+  {
+    "Adjusted after-tax income": 0.322,
+    "Adjusted market income": 0.452,
+    "Year": 2017,
+    "Adjusted total income": 0.368,
+    "Province": "Ontario"
+  },
+  {
+    "Adjusted after-tax income": 0.296,
+    "Adjusted market income": 0.419,
+    "Year": 2010,
+    "Adjusted total income": 0.339,
+    "Province": "Manitoba"
+  },
+  {
+    "Adjusted after-tax income": 0.292,
+    "Adjusted market income": 0.405,
+    "Year": 2011,
+    "Adjusted total income": 0.33,
+    "Province": "Manitoba"
+  },
+  {
+    "Adjusted after-tax income": 0.298,
+    "Adjusted market income": 0.412,
+    "Year": 2012,
+    "Adjusted total income": 0.336,
+    "Province": "Manitoba"
+  },
+  {
+    "Adjusted after-tax income": 0.294,
+    "Adjusted market income": 0.406,
+    "Year": 2013,
+    "Adjusted total income": 0.334,
+    "Province": "Manitoba"
+  },
+  {
+    "Adjusted after-tax income": 0.297,
+    "Adjusted market income": 0.41,
+    "Year": 2014,
+    "Adjusted total income": 0.338,
+    "Province": "Manitoba"
+  },
+  {
+    "Adjusted after-tax income": 0.3,
+    "Adjusted market income": 0.419,
+    "Year": 2015,
+    "Adjusted total income": 0.342,
+    "Province": "Manitoba"
+  },
+  {
+    "Adjusted after-tax income": 0.29,
+    "Adjusted market income": 0.41,
+    "Year": 2016,
+    "Adjusted total income": 0.327,
+    "Province": "Manitoba"
+  },
+  {
+    "Adjusted after-tax income": 0.303,
+    "Adjusted market income": 0.426,
+    "Year": 2017,
+    "Adjusted total income": 0.345,
+    "Province": "Manitoba"
+  },
+  {
+    "Adjusted after-tax income": 0.311,
+    "Adjusted market income": 0.428,
+    "Year": 2010,
+    "Adjusted total income": 0.353,
+    "Province": "Saskatchewan"
+  },
+  {
+    "Adjusted after-tax income": 0.306,
+    "Adjusted market income": 0.415,
+    "Year": 2011,
+    "Adjusted total income": 0.347,
+    "Province": "Saskatchewan"
+  },
+  {
+    "Adjusted after-tax income": 0.297,
+    "Adjusted market income": 0.398,
+    "Year": 2012,
+    "Adjusted total income": 0.334,
+    "Province": "Saskatchewan"
+  },
+  {
+    "Adjusted after-tax income": 0.307,
+    "Adjusted market income": 0.418,
+    "Year": 2013,
+    "Adjusted total income": 0.348,
+    "Province": "Saskatchewan"
+  },
+  {
+    "Adjusted after-tax income": 0.307,
+    "Adjusted market income": 0.409,
+    "Year": 2014,
+    "Adjusted total income": 0.347,
+    "Province": "Saskatchewan"
+  },
+  {
+    "Adjusted after-tax income": 0.303,
+    "Adjusted market income": 0.414,
+    "Year": 2015,
+    "Adjusted total income": 0.343,
+    "Province": "Saskatchewan"
+  },
+  {
+    "Adjusted after-tax income": 0.29,
+    "Adjusted market income": 0.398,
+    "Year": 2016,
+    "Adjusted total income": 0.327,
+    "Province": "Saskatchewan"
+  },
+  {
+    "Adjusted after-tax income": 0.304,
+    "Adjusted market income": 0.425,
+    "Year": 2017,
+    "Adjusted total income": 0.345,
+    "Province": "Saskatchewan"
+  },
+  {
+    "Adjusted after-tax income": 0.32,
+    "Adjusted market income": 0.419,
+    "Year": 2010,
+    "Adjusted total income": 0.359,
+    "Province": "Alberta"
+  },
+  {
+    "Adjusted after-tax income": 0.326,
+    "Adjusted market income": 0.416,
+    "Year": 2011,
+    "Adjusted total income": 0.365,
+    "Province": "Alberta"
+  },
+  {
+    "Adjusted after-tax income": 0.307,
+    "Adjusted market income": 0.391,
+    "Year": 2012,
+    "Adjusted total income": 0.344,
+    "Province": "Alberta"
+  },
+  {
+    "Adjusted after-tax income": 0.313,
+    "Adjusted market income": 0.396,
+    "Year": 2013,
+    "Adjusted total income": 0.35,
+    "Province": "Alberta"
+  },
+  {
+    "Adjusted after-tax income": 0.319,
+    "Adjusted market income": 0.394,
+    "Year": 2014,
+    "Adjusted total income": 0.353,
+    "Province": "Alberta"
+  },
+  {
+    "Adjusted after-tax income": 0.324,
+    "Adjusted market income": 0.42,
+    "Year": 2015,
+    "Adjusted total income": 0.365,
+    "Province": "Alberta"
+  },
+  {
+    "Adjusted after-tax income": 0.297,
+    "Adjusted market income": 0.398,
+    "Year": 2016,
+    "Adjusted total income": 0.335,
+    "Province": "Alberta"
+  },
+  {
+    "Adjusted after-tax income": 0.296,
+    "Adjusted market income": 0.399,
+    "Year": 2017,
+    "Adjusted total income": 0.335,
+    "Province": "Alberta"
+  },
+  {
+    "Adjusted after-tax income": 0.322,
+    "Adjusted market income": 0.429,
+    "Year": 2010,
+    "Adjusted total income": 0.357,
+    "Province": "British Columbia"
+  },
+  {
+    "Adjusted after-tax income": 0.312,
+    "Adjusted market income": 0.42,
+    "Year": 2011,
+    "Adjusted total income": 0.346,
+    "Province": "British Columbia"
+  },
+  {
+    "Adjusted after-tax income": 0.313,
+    "Adjusted market income": 0.418,
+    "Year": 2012,
+    "Adjusted total income": 0.347,
+    "Province": "British Columbia"
+  },
+  {
+    "Adjusted after-tax income": 0.318,
+    "Adjusted market income": 0.419,
+    "Year": 2013,
+    "Adjusted total income": 0.352,
+    "Province": "British Columbia"
+  },
+  {
+    "Adjusted after-tax income": 0.308,
+    "Adjusted market income": 0.414,
+    "Year": 2014,
+    "Adjusted total income": 0.346,
+    "Province": "British Columbia"
+  },
+  {
+    "Adjusted after-tax income": 0.312,
+    "Adjusted market income": 0.416,
+    "Year": 2015,
+    "Adjusted total income": 0.343,
+    "Province": "British Columbia"
+  },
+  {
+    "Adjusted after-tax income": 0.296,
+    "Adjusted market income": 0.4,
+    "Year": 2016,
+    "Adjusted total income": 0.33,
+    "Province": "British Columbia"
+  },
+  {
+    "Adjusted after-tax income": 0.302,
+    "Adjusted market income": 0.411,
+    "Year": 2017,
+    "Adjusted total income": 0.338,
+    "Province": "British Columbia"
+  }
+]

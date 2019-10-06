@@ -1,0 +1,17 @@
+headnotes: 
+Gini coefficients of adjusted market, total and after-tax income 1 2 3 4
+Annual
+Table: 11-10-0134-01 (formerly CANSIM 206-0033)
+Geography: Canada, Geographical region of Canada, Province or territory
+
+
+footnotes:
+1	Data quality indicators are based on the coefficient of variation (CV) and number of observations. Quality indicators indicate the following: A - Excellent (CV between 0% and 2%); B - Very good (CV between 2% and 4%); C - Good (CV between 4% and 8%); D - Acceptable (CV between 8% and 16%); E - Use with caution (CV between 16% and 33.3%).
+2	The Gini coefficient is a number between zero and one that measures the relative degree of inequality in the distribution of income. The coefficient would register zero (minimum inequality) for a population in which each person received exactly the same adjusted household income and it would register a coefficient of one (maximum inequality) if one person received all the adjusted household income and the rest received none. Even though a single Gini coefficient value has no simple interpretation, comparisons of the level over time or between populations are very straightforward: the higher the coefficient, the higher the inequality of the distribution.
+3	Estimates are based on data from the following surveys: the Survey of Consumer Finances (SCF) from 1976 to 1992, a combination of the SCF and the Survey of Labour and Income Dynamics (SLID) from 1993 to 1997, the SLID from 1998 to 2011 and the Canadian Income Survey (CIS) beginning in 2012. For more information, see Statistics Canada, 2015, "Revisions to 2006 to 2011 income data", Income Research Paper Series, Cat. no. 75F0002MIE - No. 003. Also, two previous revisions of income data are described in Cotton, Cathy, 2000, "Bridging Two Surveys: An Integrated Series of Income Data from SCF and SLID 1989-1997", Statistics Canada, Cat. No. 75F0002MIE - No. 002, and Lathe, Heather, 2005, "Survey of Labour and Income Dynamics: 2003 Historical Revision", Statistics Canada, Cat. No. 75F0002MIE - No. 009.
+4	Estimates from the Survey of Consumer Finances include income data for persons aged 15 years and over. Estimates from the Survey of Labour and Income Dynamics and the Canadian Income Survey include income data for persons aged 16 years and over.
+5	In order to take into account the economies of scale present in larger households, the different types of income are adjusted by dividing the household income by the square root of the household size.
+	
+How to cite: Statistics Canada. Table 11-10-0134-01 Gini coefficients of adjusted market, total and after-tax income	
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110013401	
+DOI:  https://doi.org/10.25318/1110013401-eng	

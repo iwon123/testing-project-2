@@ -1,0 +1,13 @@
+Link to our data-sets
+consumer credit data: https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1010011701
+population: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000501
+gdp: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610040001
+gini-index: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110013401&pickMembers%5B0%5D=1.1
+consumer price index: https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1810000401
+Labor force characteristics (employment, unemployment): https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028703
+Inflation rate: https://www.statista.com/statistics/271247/inflation-rate-in-canada/
+Wages: https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1410006401
+money supply (M1, M2, M3): https://research.stlouisfed.org/useraccount/datalists/229031
+
+
+

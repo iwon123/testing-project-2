@@ -1,0 +1,50 @@
+[
+  {
+    "Adjusted after-tax income": 0.315,
+    "Adjusted market income": 0.441,
+    "Year": 2010,
+    "Adjusted total income": 0.356
+  },
+  {
+    "Adjusted after-tax income": 0.311,
+    "Adjusted market income": 0.433,
+    "Year": 2011,
+    "Adjusted total income": 0.352
+  },
+  {
+    "Adjusted after-tax income": 0.316,
+    "Adjusted market income": 0.433,
+    "Year": 2012,
+    "Adjusted total income": 0.354
+  },
+  {
+    "Adjusted after-tax income": 0.318,
+    "Adjusted market income": 0.437,
+    "Year": 2013,
+    "Adjusted total income": 0.358
+  },
+  {
+    "Adjusted after-tax income": 0.311,
+    "Adjusted market income": 0.427,
+    "Year": 2014,
+    "Adjusted total income": 0.352
+  },
+  {
+    "Adjusted after-tax income": 0.314,
+    "Adjusted market income": 0.436,
+    "Year": 2015,
+    "Adjusted total income": 0.354
+  },
+  {
+    "Adjusted after-tax income": 0.306,
+    "Adjusted market income": 0.432,
+    "Year": 2016,
+    "Adjusted total income": 0.347
+  },
+  {
+    "Adjusted after-tax income": 0.309,
+    "Adjusted market income": 0.439,
+    "Year": 2017,
+    "Adjusted total income": 0.352
+  }
+]

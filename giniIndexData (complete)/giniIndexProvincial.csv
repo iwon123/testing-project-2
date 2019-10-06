@@ -1,0 +1,81 @@
+﻿province,year,adjusted_market_income,adjusted_total_income,adjusted_after_tax_income
+Newfoundland and Labrador,2010,0.487,0.35,0.308
+Newfoundland and Labrador,2011,0.469,0.344,0.303
+Newfoundland and Labrador,2012,0.461,0.342,0.299
+Newfoundland and Labrador,2013,0.455,0.349,0.306
+Newfoundland and Labrador,2014,0.441,0.333,0.293
+Newfoundland and Labrador,2015,0.466,0.357,0.314
+Newfoundland and Labrador,2016,0.465,0.345,0.301
+Newfoundland and Labrador,2017,0.483,0.357,0.307
+Prince Edward Island,2010,0.408,0.294,0.258
+Prince Edward Island,2011,0.402,0.299,0.265
+Prince Edward Island,2012,0.395,0.292,0.257
+Prince Edward Island,2013,0.428,0.319,0.285
+Prince Edward Island,2014,0.414,0.316,0.275
+Prince Edward Island,2015,0.4,0.31,0.279
+Prince Edward Island,2016,0.418,0.31,0.269
+Prince Edward Island,2017,0.42,0.312,0.279
+Nova Scotia,2010,0.439,0.333,0.292
+Nova Scotia,2011,0.415,0.317,0.28
+Nova Scotia,2012,0.428,0.331,0.292
+Nova Scotia,2013,0.431,0.34,0.302
+Nova Scotia,2014,0.427,0.333,0.291
+Nova Scotia,2015,0.436,0.336,0.298
+Nova Scotia,2016,0.442,0.341,0.297
+Nova Scotia,2017,0.438,0.335,0.294
+New Brunswick,2010,0.425,0.317,0.279
+New Brunswick,2011,0.435,0.326,0.289
+New Brunswick,2012,0.426,0.324,0.288
+New Brunswick,2013,0.426,0.319,0.283
+New Brunswick,2014,0.422,0.316,0.277
+New Brunswick,2015,0.413,0.31,0.273
+New Brunswick,2016,0.428,0.315,0.278
+New Brunswick,2017,0.428,0.315,0.276
+Quebec,2010,0.434,0.332,0.286
+Quebec,2011,0.438,0.34,0.291
+Quebec,2012,0.442,0.342,0.297
+Quebec,2013,0.444,0.339,0.292
+Quebec,2014,0.43,0.33,0.281
+Quebec,2015,0.435,0.33,0.285
+Quebec,2016,0.437,0.333,0.284
+Quebec,2017,0.438,0.332,0.288
+Ontario,2010,0.447,0.363,0.32
+Ontario,2011,0.433,0.352,0.311
+Ontario,2012,0.437,0.361,0.322
+Ontario,2013,0.445,0.368,0.327
+Ontario,2014,0.429,0.358,0.316
+Ontario,2015,0.437,0.36,0.318
+Ontario,2016,0.445,0.363,0.32
+Ontario,2017,0.452,0.368,0.322
+Manitoba,2010,0.419,0.339,0.296
+Manitoba,2011,0.405,0.33,0.292
+Manitoba,2012,0.412,0.336,0.298
+Manitoba,2013,0.406,0.334,0.294
+Manitoba,2014,0.41,0.338,0.297
+Manitoba,2015,0.419,0.342,0.3
+Manitoba,2016,0.41,0.327,0.29
+Manitoba,2017,0.426,0.345,0.303
+Saskatchewan,2010,0.428,0.353,0.311
+Saskatchewan,2011,0.415,0.347,0.306
+Saskatchewan,2012,0.398,0.334,0.297
+Saskatchewan,2013,0.418,0.348,0.307
+Saskatchewan,2014,0.409,0.347,0.307
+Saskatchewan,2015,0.414,0.343,0.303
+Saskatchewan,2016,0.398,0.327,0.29
+Saskatchewan,2017,0.425,0.345,0.304
+Alberta,2010,0.419,0.359,0.32
+Alberta,2011,0.416,0.365,0.326
+Alberta,2012,0.391,0.344,0.307
+Alberta,2013,0.396,0.35,0.313
+Alberta,2014,0.394,0.353,0.319
+Alberta,2015,0.42,0.365,0.324
+Alberta,2016,0.398,0.335,0.297
+Alberta,2017,0.399,0.335,0.296
+British Columbia,2010,0.429,0.357,0.322
+British Columbia,2011,0.42,0.346,0.312
+British Columbia,2012,0.418,0.347,0.313
+British Columbia,2013,0.419,0.352,0.318
+British Columbia,2014,0.414,0.346,0.308
+British Columbia,2015,0.416,0.343,0.312
+British Columbia,2016,0.4,0.33,0.296
+British Columbia,2017,0.411,0.338,0.302

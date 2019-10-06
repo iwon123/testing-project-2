@@ -1,0 +1,20 @@
+﻿"Archived - Labour force characteristics by sex and detailed age group, annual, inactive (x 1,000)" 1 2
+"Annual"
+"Table: 14-10-0018-01 (formerly CANSIM 282-0002)"
+"Geography: Canada, Province or territory"
+
+"","","Canada",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"","","Employment 4",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Sex","Age group","1976","1977","1978","1979","1980","1981","1982","1983","1984","1985","1986","1987","1988","1989","1990","1991","1992","1993","1994","1995","1996","1997","1998","1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018"
+"",,"Persons",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Both sexes","15 to 64 years","9,579.1","9,755.8","10,057.3","10,501.2","10,817.3","11,137.1","10,773.6","10,856.7","11,132.6","11,487.0","11,844.8","12,162.3","12,535.0","12,812.8","12,897.0","12,666.1","12,542.4","12,609.5","12,860.0","13,102.3","13,224.0","13,500.3","13,829.5","14,190.3","14,550.8","14,719.5","15,051.4","15,387.7","15,629.9","15,815.1","16,078.2","16,415.4","16,595.0","16,288.5","16,477.5","16,695.3","16,857.7","17,057.5","17,119.4","17,240.4","17,332.9","17,618.9","17,835.3"
+
+
+Footnotes:
+1,"To ensure respondent confidentiality, estimates below a certain threshold are suppressed. For Canada, Quebec, Ontario, Alberta and British Columbia suppression is applied to all data below 1,500. The threshold level for Newfoundland and Labrador, Nova Scotia, New Brunswick, Manitoba and Saskatchewan is 500, while in Prince Edward Island, estimates under 200 are supressed. For census metropolitan areas (CMAs) and economic regions (ERs), use their respective provincial suppression levels mentioned above. Estimates are based on smaller sample sizes the more detailed the table becomes, which could result in lower data quality."
+2,"On April 5, 2019, this table was archived and replaced by table 14-10-0327."
+3,Excluding the territories.
+4,"Number of persons who, during the reference week, worked for pay or profit, or performed unpaid family work or had a job but were not at work due to own illness or disability, personal or family responsibilities, labour dispute, vacation, or other reason. Those persons on layoff and persons without work but who had a job to start at a definite date in the future are not considered employed. Estimates in thousands, rounded to the nearest hundred."
+
+"How to cite: Statistics Canada. Table 14-10-0018-01 Labour force characteristics by sex and detailed age group, annual, inactive (x 1,000)"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410001801

@@ -1,0 +1,31 @@
+headnotes: 
+Employee wages by industry, annual 1									
+Annual									
+Table: 14-10-0064-01 (formerly CANSIM 282-0072)									
+Geography: Canada, Province or territory									
+									
+	Canada								
+	Average hourly wage rate								
+	Both full- and part-time employees								
+	Both sexes								
+	15 years and over								
+
+footnotes:
+Footnotes:									
+1	To ensure respondent confidentiality, estimates below a certain threshold are suppressed. For Canada, Quebec, Ontario, Alberta and British Columbia suppression is applied to all data below 1,500. The threshold level for Newfoundland and Labrador, Nova Scotia, New Brunswick, Manitoba and Saskatchewan is 500, while in Prince Edward Island, estimates under 200 are supressed. For census metropolitan areas (CMAs) and economic regions (ERs), use their respective provincial suppression levels mentioned above. Estimates are based on smaller sample sizes the more detailed the table becomes, which could result in lower data quality.								
+2	Excluding the territories.								
+3	Beginning January 1997, information is collected on the usual wages or salary of employees at their main job. Respondents are asked to report their wage/salary before taxes and other deductions, and include tips, commissions and bonuses. Weekly and hourly wages/salaries are calculated in conjunction with usual paid work hours per week.								
+4	Industry refers to the general nature of the business carried out by the employer for whom the respondent works (main job only). Industry estimates in this table are based on the 2012 North American Industry Classification System (NAICS).								
+5	This combines the North American Industry Classification System (NAICS) codes 11 to 91.								
+6	This combines the North American Industry Classification System (NAICS) codes 11 to 33.								
+7	Labour Force Survey (LFS) North American Industry Classification System (NAICS) code exception: add group 1100 - Farming - not elsewhere classified (nec). When the type of farm activity cannot be distinguished between crop and livestock, (example: mixed farming).								
+8	Labour Force Survey (LFS) North American Industry Classification System (NAICS) code exception: add group 2100 - Mining - not elsewhere classified (nec). Whenever the type of mining activity cannot be distinguished.								
+9	Also referred to as Natural resources.								
+10	This combines the North American Industry Classification System (NAICS) codes 41 to 91.								
+11	Formerly "Management of companies and administrative and other support services".								
+									
+How to cite: Statistics Canada. Table 14-10-0064-01 Employee wages by industry, annual									
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410006401									
+DOI:  https://doi.org/10.25318/1410006401-eng									
+									
+									

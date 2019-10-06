@@ -1,0 +1,587 @@
+[
+  {
+    "15 to 64 years": "366,137",
+    "Year": 2010,
+    "Province": "Newfoundland and Labrador"
+  },
+  {
+    "15 to 64 years": "365,560",
+    "Year": 2011,
+    "Province": "Newfoundland and Labrador"
+  },
+  {
+    "15 to 64 years": "363,777",
+    "Year": 2012,
+    "Province": "Newfoundland and Labrador"
+  },
+  {
+    "15 to 64 years": "361,677",
+    "Year": 2013,
+    "Province": "Newfoundland and Labrador"
+  },
+  {
+    "15 to 64 years": "359,505",
+    "Year": 2014,
+    "Province": "Newfoundland and Labrador"
+  },
+  {
+    "15 to 64 years": "356,770",
+    "Year": 2015,
+    "Province": "Newfoundland and Labrador"
+  },
+  {
+    "15 to 64 years": "354,362",
+    "Year": 2016,
+    "Province": "Newfoundland and Labrador"
+  },
+  {
+    "15 to 64 years": "350,321",
+    "Year": 2017,
+    "Province": "Newfoundland and Labrador"
+  },
+  {
+    "15 to 64 years": "344,385",
+    "Year": 2018,
+    "Province": "Newfoundland and Labrador"
+  },
+  {
+    "15 to 64 years": "96,424",
+    "Year": 2010,
+    "Province": "Prince Edward Island"
+  },
+  {
+    "15 to 64 years": "97,905",
+    "Year": 2011,
+    "Province": "Prince Edward Island"
+  },
+  {
+    "15 to 64 years": "97,641",
+    "Year": 2012,
+    "Province": "Prince Edward Island"
+  },
+  {
+    "15 to 64 years": "96,346",
+    "Year": 2013,
+    "Province": "Prince Edward Island"
+  },
+  {
+    "15 to 64 years": "95,521",
+    "Year": 2014,
+    "Province": "Prince Edward Island"
+  },
+  {
+    "15 to 64 years": "95,051",
+    "Year": 2015,
+    "Province": "Prince Edward Island"
+  },
+  {
+    "15 to 64 years": "96,005",
+    "Year": 2016,
+    "Province": "Prince Edward Island"
+  },
+  {
+    "15 to 64 years": "97,871",
+    "Year": 2017,
+    "Province": "Prince Edward Island"
+  },
+  {
+    "15 to 64 years": "99,125",
+    "Year": 2018,
+    "Province": "Prince Edward Island"
+  },
+  {
+    "15 to 64 years": "652,140",
+    "Year": 2010,
+    "Province": "Nova Scotia"
+  },
+  {
+    "15 to 64 years": "652,163",
+    "Year": 2011,
+    "Province": "Nova Scotia"
+  },
+  {
+    "15 to 64 years": "646,442",
+    "Year": 2012,
+    "Province": "Nova Scotia"
+  },
+  {
+    "15 to 64 years": "638,630",
+    "Year": 2013,
+    "Province": "Nova Scotia"
+  },
+  {
+    "15 to 64 years": "631,999",
+    "Year": 2014,
+    "Province": "Nova Scotia"
+  },
+  {
+    "15 to 64 years": "625,639",
+    "Year": 2015,
+    "Province": "Nova Scotia"
+  },
+  {
+    "15 to 64 years": "625,254",
+    "Year": 2016,
+    "Province": "Nova Scotia"
+  },
+  {
+    "15 to 64 years": "626,647",
+    "Year": 2017,
+    "Province": "Nova Scotia"
+  },
+  {
+    "15 to 64 years": "628,699",
+    "Year": 2018,
+    "Province": "Nova Scotia"
+  },
+  {
+    "15 to 64 years": "520,463",
+    "Year": 2010,
+    "Province": "New Brunswick"
+  },
+  {
+    "15 to 64 years": "520,475",
+    "Year": 2011,
+    "Province": "New Brunswick"
+  },
+  {
+    "15 to 64 years": "518,042",
+    "Year": 2012,
+    "Province": "New Brunswick"
+  },
+  {
+    "15 to 64 years": "513,727",
+    "Year": 2013,
+    "Province": "New Brunswick"
+  },
+  {
+    "15 to 64 years": "509,190",
+    "Year": 2014,
+    "Province": "New Brunswick"
+  },
+  {
+    "15 to 64 years": "504,886",
+    "Year": 2015,
+    "Province": "New Brunswick"
+  },
+  {
+    "15 to 64 years": "503,180",
+    "Year": 2016,
+    "Province": "New Brunswick"
+  },
+  {
+    "15 to 64 years": "501,201",
+    "Year": 2017,
+    "Province": "New Brunswick"
+  },
+  {
+    "15 to 64 years": "499,300",
+    "Year": 2018,
+    "Province": "New Brunswick"
+  },
+  {
+    "15 to 64 years": "5,486,502",
+    "Year": 2010,
+    "Province": "Quebec"
+  },
+  {
+    "15 to 64 years": "5,515,483",
+    "Year": 2011,
+    "Province": "Quebec"
+  },
+  {
+    "15 to 64 years": "5,517,295",
+    "Year": 2012,
+    "Province": "Quebec"
+  },
+  {
+    "15 to 64 years": "5,511,433",
+    "Year": 2013,
+    "Province": "Quebec"
+  },
+  {
+    "15 to 64 years": "5,493,403",
+    "Year": 2014,
+    "Province": "Quebec"
+  },
+  {
+    "15 to 64 years": "5,468,218",
+    "Year": 2015,
+    "Province": "Quebec"
+  },
+  {
+    "15 to 64 years": "5,457,016",
+    "Year": 2016,
+    "Province": "Quebec"
+  },
+  {
+    "15 to 64 years": "5,464,364",
+    "Year": 2017,
+    "Province": "Quebec"
+  },
+  {
+    "15 to 64 years": "5,486,154",
+    "Year": 2018,
+    "Province": "Quebec"
+  },
+  {
+    "15 to 64 years": "9,090,570",
+    "Year": 2010,
+    "Province": "Ontario"
+  },
+  {
+    "15 to 64 years": "9,166,115",
+    "Year": 2011,
+    "Province": "Ontario"
+  },
+  {
+    "15 to 64 years": "9,214,186",
+    "Year": 2012,
+    "Province": "Ontario"
+  },
+  {
+    "15 to 64 years": "9,250,525",
+    "Year": 2013,
+    "Province": "Ontario"
+  },
+  {
+    "15 to 64 years": "9,280,034",
+    "Year": 2014,
+    "Province": "Ontario"
+  },
+  {
+    "15 to 64 years": "9,298,697",
+    "Year": 2015,
+    "Province": "Ontario"
+  },
+  {
+    "15 to 64 years": "9,374,652",
+    "Year": 2016,
+    "Province": "Ontario"
+  },
+  {
+    "15 to 64 years": "9,481,130",
+    "Year": 2017,
+    "Province": "Ontario"
+  },
+  {
+    "15 to 64 years": "9,631,869",
+    "Year": 2018,
+    "Province": "Ontario"
+  },
+  {
+    "15 to 64 years": "819,961",
+    "Year": 2010,
+    "Province": "Manitoba"
+  },
+  {
+    "15 to 64 years": "828,173",
+    "Year": 2011,
+    "Province": "Manitoba"
+  },
+  {
+    "15 to 64 years": "836,466",
+    "Year": 2012,
+    "Province": "Manitoba"
+  },
+  {
+    "15 to 64 years": "843,163",
+    "Year": 2013,
+    "Province": "Manitoba"
+  },
+  {
+    "15 to 64 years": "850,052",
+    "Year": 2014,
+    "Province": "Manitoba"
+  },
+  {
+    "15 to 64 years": "856,122",
+    "Year": 2015,
+    "Province": "Manitoba"
+  },
+  {
+    "15 to 64 years": "868,657",
+    "Year": 2016,
+    "Province": "Manitoba"
+  },
+  {
+    "15 to 64 years": "880,440",
+    "Year": 2017,
+    "Province": "Manitoba"
+  },
+  {
+    "15 to 64 years": "888,316",
+    "Year": 2018,
+    "Province": "Manitoba"
+  },
+  {
+    "15 to 64 years": "701,257",
+    "Year": 2010,
+    "Province": "Saskatchewan"
+  },
+  {
+    "15 to 64 years": "711,823",
+    "Year": 2011,
+    "Province": "Saskatchewan"
+  },
+  {
+    "15 to 64 years": "722,365",
+    "Year": 2012,
+    "Province": "Saskatchewan"
+  },
+  {
+    "15 to 64 years": "731,534",
+    "Year": 2013,
+    "Province": "Saskatchewan"
+  },
+  {
+    "15 to 64 years": "738,238",
+    "Year": 2014,
+    "Province": "Saskatchewan"
+  },
+  {
+    "15 to 64 years": "740,177",
+    "Year": 2015,
+    "Province": "Saskatchewan"
+  },
+  {
+    "15 to 64 years": "746,661",
+    "Year": 2016,
+    "Province": "Saskatchewan"
+  },
+  {
+    "15 to 64 years": "752,859",
+    "Year": 2017,
+    "Province": "Saskatchewan"
+  },
+  {
+    "15 to 64 years": "755,723",
+    "Year": 2018,
+    "Province": "Saskatchewan"
+  },
+  {
+    "15 to 64 years": "2,654,195",
+    "Year": 2010,
+    "Province": "Alberta"
+  },
+  {
+    "15 to 64 years": "2,686,932",
+    "Year": 2011,
+    "Province": "Alberta"
+  },
+  {
+    "15 to 64 years": "2,734,665",
+    "Year": 2012,
+    "Province": "Alberta"
+  },
+  {
+    "15 to 64 years": "2,799,140",
+    "Year": 2013,
+    "Province": "Alberta"
+  },
+  {
+    "15 to 64 years": "2,862,944",
+    "Year": 2014,
+    "Province": "Alberta"
+  },
+  {
+    "15 to 64 years": "2,888,055",
+    "Year": 2015,
+    "Province": "Alberta"
+  },
+  {
+    "15 to 64 years": "2,902,444",
+    "Year": 2016,
+    "Province": "Alberta"
+  },
+  {
+    "15 to 64 years": "2,915,839",
+    "Year": 2017,
+    "Province": "Alberta"
+  },
+  {
+    "15 to 64 years": "2,940,907",
+    "Year": 2018,
+    "Province": "Alberta"
+  },
+  {
+    "15 to 64 years": "3,111,772",
+    "Year": 2010,
+    "Province": "British Columbia"
+  },
+  {
+    "15 to 64 years": "3,130,013",
+    "Year": 2011,
+    "Province": "British Columbia"
+  },
+  {
+    "15 to 64 years": "3,166,691",
+    "Year": 2012,
+    "Province": "British Columbia"
+  },
+  {
+    "15 to 64 years": "3,197,885",
+    "Year": 2013,
+    "Province": "British Columbia"
+  },
+  {
+    "15 to 64 years": "3,239,852",
+    "Year": 2014,
+    "Province": "British Columbia"
+  },
+  {
+    "15 to 64 years": "3,270,197",
+    "Year": 2015,
+    "Province": "British Columbia"
+  },
+  {
+    "15 to 64 years": "3,310,445",
+    "Year": 2016,
+    "Province": "British Columbia"
+  },
+  {
+    "15 to 64 years": "3,335,409",
+    "Year": 2017,
+    "Province": "British Columbia"
+  },
+  {
+    "15 to 64 years": "3,367,894",
+    "Year": 2018,
+    "Province": "British Columbia"
+  },
+  {
+    "15 to 64 years": "25,824",
+    "Year": 2010,
+    "Province": "Yukon"
+  },
+  {
+    "15 to 64 years": "26,376",
+    "Year": 2011,
+    "Province": "Yukon"
+  },
+  {
+    "15 to 64 years": "26,815",
+    "Year": 2012,
+    "Province": "Yukon"
+  },
+  {
+    "15 to 64 years": "26,872",
+    "Year": 2013,
+    "Province": "Yukon"
+  },
+  {
+    "15 to 64 years": "27,162",
+    "Year": 2014,
+    "Province": "Yukon"
+  },
+  {
+    "15 to 64 years": "27,418",
+    "Year": 2015,
+    "Province": "Yukon"
+  },
+  {
+    "15 to 64 years": "27,853",
+    "Year": 2016,
+    "Province": "Yukon"
+  },
+  {
+    "15 to 64 years": "28,461",
+    "Year": 2017,
+    "Province": "Yukon"
+  },
+  {
+    "15 to 64 years": "28,901",
+    "Year": 2018,
+    "Province": "Yukon"
+  },
+  {
+    "15 to 64 years": "31,721",
+    "Year": 2010,
+    "Province": "Northwest Territories 7"
+  },
+  {
+    "15 to 64 years": "31,939",
+    "Year": 2011,
+    "Province": "Northwest Territories 8"
+  },
+  {
+    "15 to 64 years": "32,045",
+    "Year": 2012,
+    "Province": "Northwest Territories 9"
+  },
+  {
+    "15 to 64 years": "32,082",
+    "Year": 2013,
+    "Province": "Northwest Territories 10"
+  },
+  {
+    "15 to 64 years": "32,024",
+    "Year": 2014,
+    "Province": "Northwest Territories 11"
+  },
+  {
+    "15 to 64 years": "32,158",
+    "Year": 2015,
+    "Province": "Northwest Territories 12"
+  },
+  {
+    "15 to 64 years": "32,410",
+    "Year": 2016,
+    "Province": "Northwest Territories 13"
+  },
+  {
+    "15 to 64 years": "32,479",
+    "Year": 2017,
+    "Province": "Northwest Territories 14"
+  },
+  {
+    "15 to 64 years": "31,928",
+    "Year": 2018,
+    "Province": "Northwest Territories 15"
+  },
+  {
+    "15 to 64 years": "21,735",
+    "Year": 2010,
+    "Province": "Nunavut "
+  },
+  {
+    "15 to 64 years": "22,315",
+    "Year": 2011,
+    "Province": "Nunavut "
+  },
+  {
+    "15 to 64 years": "22,561",
+    "Year": 2012,
+    "Province": "Nunavut "
+  },
+  {
+    "15 to 64 years": "22,905",
+    "Year": 2013,
+    "Province": "Nunavut "
+  },
+  {
+    "15 to 64 years": "23,177",
+    "Year": 2014,
+    "Province": "Nunavut "
+  },
+  {
+    "15 to 64 years": "23,450",
+    "Year": 2015,
+    "Province": "Nunavut "
+  },
+  {
+    "15 to 64 years": "23,756",
+    "Year": 2016,
+    "Province": "Nunavut "
+  },
+  {
+    "15 to 64 years": "24,100",
+    "Year": 2017,
+    "Province": "Nunavut "
+  },
+  {
+    "15 to 64 years": "24,702",
+    "Year": 2018,
+    "Province": "Nunavut "
+  }
+]
